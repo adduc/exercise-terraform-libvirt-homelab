@@ -1,0 +1,6 @@
+vm_host1    = "qemu+ssh://linux-server/system"
+ip_prefix   = "192.168.100.1"
+gateway     = "192.168.100.1"
+user        = "example-user"
+user_github = "example-github-user"
+user_id     = 1000
